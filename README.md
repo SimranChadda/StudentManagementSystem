@@ -1,2 +1,3 @@
-# StudentMgmt-in-Python-Tkinter-and-JSON
-This is Student management system coded with python tkinter and JSON file modules used as database . This is self describing project containing the features like Add new student , Update Student , Delete Student information and Searching class wise information .
+# Student Management Sytem 
+This is a Student management system which is written with Python GUI Framework having most widely used library called tkinter and here JSON file modules are being used as a database.Here, the admin can perform various operations on his Student Dashboard like-  Adding a new student , Updating an existing student , Deleting an existing student and his/her information, Searching class wise information.
+After the above features being performed and the admin being satisfied with it, he has the option to save it as a spreadsheet. So, opening the excel sheet, he will be able to see all the entered details of students and thier information which was earlier displayed on his student dashboard screen.
