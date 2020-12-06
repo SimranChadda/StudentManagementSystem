@@ -1,0 +1,27 @@
+{
+  "1": {
+    "session": "2020-21",
+    "first_name": "Ravi prakash",
+    "last_name": "Shrivastav",
+    "class": "12",
+    "section": "B",
+    "gender": "Male",
+    "father": "Rajesh Kumar",
+    "mother": "Ranjana Kumari",
+    "mobile": "3256897412",
+    "address": "Rajasthan , INDIA"
+  },
+  "2": "This Record is Deleted from System",
+  "3": {
+    "session": "2019-20",
+    "first_name": "Pam ",
+    "last_name": "Junior",
+    "class": "10",
+    "section": "D",
+    "gender": "Male",
+    "father": "Tom Wilson",
+    "mother": "Helen Parkinson",
+    "mobile": "9899678213",
+    "address": "new York"
+  }
+}
